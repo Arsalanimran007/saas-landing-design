@@ -30,6 +30,7 @@ const Hero = () => {
         // dragSnapToOrigin
         >
         <Image src={cursor} 
+        alt=""
         height={200}
         width={200}
         className="max-w-none"
@@ -41,6 +42,7 @@ const Hero = () => {
         // dragSnapToOrigin
         >
          <Image src={message} 
+          alt=""
         height={200}
         width={200}
         className="max-w-none"

@@ -27,7 +27,7 @@ const ProductShowCase = () => {
           </p>
         </div>
         <motion.div
-          style={{ opacity, rotateX, transformPerspective: "200px" }}
+          style={{ opacity, rotateX, transformPerspective: "800px" }}
           ref={appImage}
         >
           <Image

@@ -29,7 +29,8 @@ const CallToAction = () => {
             translateY,
           }}
         >
-          <Image
+          <Image 
+          alt=""
             src={helixImage}
             className="hidden sm:inline absolute top-6 left-[calc(100%+36px)]"
           />
@@ -41,6 +42,7 @@ const CallToAction = () => {
           }}
         >
           <Image
+          alt=""
             src={emojiStar}
             className="hidden sm:inline absolute -top-[120px] right-[calc(100%+24px)]"
           />

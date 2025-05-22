@@ -36,7 +36,7 @@ const Navbar = () => {
           <a href="#" className="text-white/60 hover:text-white/100 transition ">Updates</a>
           <a href="#" className="text-white/60 hover:text-white/100 transition ">Help</a>
           <a href="#" className="text-white/60 hover:text-white/100 transition ">Customers</a>
-          <button className="bg-white py-2 px-4 rounded-lg">Get for free</button>
+          <button className="bg-white text-black font-medium py-2 px-4 rounded-lg">Get for free</button>
         </nav>
       </div>
     </div>
